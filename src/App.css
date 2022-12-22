@@ -1,0 +1,24 @@
+/* add your styles here */
+.App{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+.App h1{
+    text-align: center;
+}
+
+.image{
+    display: flex;
+}
+
+.image img{
+    height: auto;
+    width: 48%;
+    margin-top: 1vh;
+    margin-bottom: 1vh;
+    margin-left: 1vw;
+    margin-right: 1vw;
+}
+
